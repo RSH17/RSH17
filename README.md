@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Ruwanthi Hemachandra. Thanks for visiting my GitHub
-<!--
+
 - 🎓 I’m currently studying Information Systems at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
 -
@@ -20,4 +20,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSH17&layout=compact).
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RSH17&theme=dark&show_icons=true" alt="Ruwanthi Hemachandra" /></p>
 ![AkilaDee's github stats](https://github-readme-stats.vercel.app/api?username=AkilaDee&include_all_commits=true&show_icons=true)
--->
+
