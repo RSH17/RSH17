@@ -9,7 +9,7 @@
                         📷 [instagram][instagram] **|** 
 
 [twitter]: https://twitter.com/RSH1706
-[linkedin]: https://www.linkedin.com/in/ruwanthi-hemachandra-b77842198/
+[linkedin]: https://www.linkedin.com/in/ruwanthi-hemachandra/
 [instagram]: https://www.linkedin.com/-rsh_17/
 <a href="https://dev.to/rsh17">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ruwanthi heamachandra's DEV Profile" height="30" width="30">
