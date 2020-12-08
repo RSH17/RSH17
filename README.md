@@ -19,5 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSH17&layout=compact).
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RSH17&theme=dark&show_icons=true" alt="Ruwanthi Hemachandra" /></p>
-![Ruwanthi's github stats](https://github-readme-stats.vercel.app/api?username=RSH17&include_all_commits=true&show_icons=true).
 
