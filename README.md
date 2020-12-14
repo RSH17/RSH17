@@ -7,10 +7,12 @@
 - 📫 How to reach me:   🐦 [twitter][twitter] **|**
                         👔 [linkedin][linkedin] **|** 
                         📷 [instagram][instagram] **|** 
+                        📚[behance][Behance] **|** 
 
 [twitter]: https://twitter.com/RSH1706
 [linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BWt%2F1%2FShOT3W0mb%2BUV9lcZw%3D%3D
 [instagram]: https://www.instagram.com/_rsh_17/
+[behance]: https://www.behance.net/ruwanthhemachandra
 
 <a href="https://dev.to/rsh17">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ruwanthi Hemachandra's DEV Profile" height="30" width="30">
