@@ -9,7 +9,7 @@
                         📚[behance][Behance] **|** 
 
 [twitter]: https://twitter.com/RSH1706
-[linkedin]: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_top_card%3BWt%2F1%2FShOT3W0mb%2BUV9lcZw%3D%3D
+[linkedin]: www.linkedin.com/in/ruwanthi-hemachandra
 [instagram]: https://www.instagram.com/_rsh_17/
 [behance]: https://www.behance.net/ruwanthhemachandra
 
