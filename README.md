@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ruwanthi Hemachandra. Thanks for visiting my GitHub
+### Hi there 👋 I'm Ruwanthi Hemachandra. Thanks for visiting my GitHub Account.
 
 - 🎓 I’m currently studying Information Systems at University of Colombo School of Computing.
 - 📚 Working on learning more languages and tools.
