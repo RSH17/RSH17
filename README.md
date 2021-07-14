@@ -12,10 +12,6 @@
 [linkedin]: https://www.linkedin.com/in/ruwanthi-hemachandra
 [instagram]: https://www.instagram.com/_rsh_17/
 [behance]: https://www.behance.net/ruwanthhemachandra
-
-- <a href="https://dev.to/rsh17">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ruwanthi Hemachandra's DEV Profile" height="30" width="30">
-  </a>
    
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSH17&layout=compact).
