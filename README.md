@@ -12,5 +12,10 @@
 [linkedin]: https://www.linkedin.com/in/ruwanthi-hemachandra
 [instagram]: https://www.instagram.com/_rsh_17/
 [behance]: https://www.behance.net/ruwanthhemachandra
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSH17&layout=compact).
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RSH17&theme=dark&show_icons=true" alt="Ruwanthi Hemachandra" /></p>
+
+
    
 
