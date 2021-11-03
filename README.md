@@ -4,8 +4,7 @@
 - 📚 Working on learning more languages and tools.
 
 - 📫 How to reach me:   🐦 [twitter][twitter] **|**
-                        👔 [linkedin][linkedin] **|** 
-                        📷 [instagram][instagram] **|** 
+                        👔 [linkedin][linkedin] **|**  
                         📚[behance][Behance] **|** 
 
 [twitter]: https://twitter.com/RSH1706
